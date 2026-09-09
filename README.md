@@ -28,9 +28,9 @@ I build AI systems and the data infrastructure behind them. At Mastercard I trai
 
 ### 💼 Experience
 
-* <img src="https://raw.githubusercontent.com/Abhinaykrishna2/Abhinaykrishna2/main/assets/mastercard_logo.png" width="20" height="20" valign="middle" alt="Mastercard" /> **Mastercard** | Data Scientist Intern
-
 * <img src="https://raw.githubusercontent.com/Abhinaykrishna2/Abhinaykrishna2/main/assets/nyulogo.png" width="20" height="20" valign="middle" alt="NYU" /> **New York University** | Research Scholar
+  
+* <img src="https://raw.githubusercontent.com/Abhinaykrishna2/Abhinaykrishna2/main/assets/mastercard_logo.png" width="20" height="20" valign="middle" alt="Mastercard" /> **Mastercard** | Data Scientist Intern
 
 * <img src="https://raw.githubusercontent.com/Abhinaykrishna2/Abhinaykrishna2/main/assets/nyulogo.png" width="20" height="20" valign="middle" alt="NYU" /> **New York University** | Teaching Assistant, Natural Language Processing
 
