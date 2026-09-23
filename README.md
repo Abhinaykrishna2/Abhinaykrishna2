@@ -2,7 +2,7 @@
 
 # Abhinay Krishna Bodi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=780&height=45&lines=AI+Engineer+%7C+Data+Scientist+%7C+Systems+Engineer%3BM.S.+Data+Science+%40+NYU+%7C+GPA+3.8%2F4.0%3BEx-Mastercard+%7C+Ex-Brane+Enterprises%3BBuilding+LLM+Systems%2C+Data+Pipelines+%26+Trading+Engines%3BTop+5%25+LeetCode+Global+Rank" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=780&height=45&lines=AI+Engineer+%7C+Data+Scientist+%7C+Systems+Engineer%3BM.S.+Data+Science+%40+NYU+%7C+GPA+3.8%2F4.0%3BEx-Mastercard+%7C+Ex-Brane+Enterprises%3BTop+5%25+LeetCode+Global+Rank" alt="Typing SVG" />
 
 <p align="center">
   <a href="mailto:abhinaykrishna60@gmail.com"><img src="https://img.shields.io/badge/Open_to_Work-2EA043?style=flat-square" alt="Open to Work" /></a>
@@ -22,7 +22,7 @@
 
 ### ⚡ Overview
 
-I build AI systems and the data infrastructure behind them. At Mastercard I trained fraud and ranking models on 4 TB+ of transaction data. At Brane I shipped sub-10ms WebSocket backends serving 5,000+ concurrent users and Spark forecasting pipelines. At NYU I research 4-bit LLM efficiency and teach NLP to 90+ students. Models that ship, systems that stay up.
+I build AI and ML systems and know the data behind them. Shipped work at Mastercard and Brane plus AI research and NLP teaching at NYU. Into clean work that creates business impact.
 
 ---
 
