@@ -13,7 +13,7 @@
   &nbsp;
   <a href="mailto:abhinaykrishna60@gmail.com"><img src="https://img.shields.io/badge/Email-abhinaykrishna60@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-New%20York%2C%20NY-1F6FEB?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Seattle%2C%20WA-1F6FEB?style=flat-square" alt="Location" />
 </p>
 
 </div>
@@ -27,6 +27,8 @@ I build AI and ML systems and know the data behind them. Shipped work at Masterc
 ---
 
 ### 💼 Experience
+
+* <img src="https://raw.githubusercontent.com/Abhinaykrishna2/Abhinaykrishna2/main/assets/digitalocean_logo.png" width="20" height="20" valign="middle" alt="DigitalOcean" /> **DigitalOcean** | Software Engineer
 
 * <img src="https://raw.githubusercontent.com/Abhinaykrishna2/Abhinaykrishna2/main/assets/nyulogo.png" width="20" height="20" valign="middle" alt="NYU" /> **New York University** | Research Scholar
   
@@ -54,7 +56,7 @@ I build AI and ML systems and know the data behind them. Shipped work at Masterc
 
 ---
 
-### 📄 Publications
+### 📄 Research
 
 * **VIP-MINGLE: Multimodal Interaction Corpus** | Accepted at INTERSPEECH 2026
   * Co-authored a multimodal corpus built on transformer-based ASR, extracting aligned audiovisual cues and identifying statistically significant differences in turn-taking and participant enjoyment (p=0.037).
@@ -97,6 +99,6 @@ I build AI and ML systems and know the data behind them. Shipped work at Masterc
 
 **Open to full-time roles:** Machine Learning Engineer | Data Scientist | Data Engineer | Software Engineer | Applied Scientist
 
-New York, NY | Open to relocate
+Seattle, WA | Open to relocate
 
 </div>
