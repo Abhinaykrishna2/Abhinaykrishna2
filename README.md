@@ -28,7 +28,7 @@ I build AI and ML systems and know the data behind them. Shipped work at Masterc
 
 ### 💼 Experience
 
-* <img src="https://raw.githubusercontent.com/Abhinaykrishna2/Abhinaykrishna2/main/assets/digitalocean_logo.png" width="20" height="20" valign="middle" alt="DigitalOcean" /> **DigitalOcean** | Software Engineer
+* <img src="https://raw.githubusercontent.com/Abhinaykrishna2/Abhinaykrishna2/main/assets/digitalocean_logo.png" width="20" height="20" valign="middle" alt="DigitalOcean" /> **DigitalOcean** | Software Engineer *(Present)*
 
 * <img src="https://raw.githubusercontent.com/Abhinaykrishna2/Abhinaykrishna2/main/assets/nyulogo.png" width="20" height="20" valign="middle" alt="NYU" /> **New York University** | Research Scholar
   
